@@ -1,0 +1,6 @@
+region        = "europe-west3"
+project_id    = "muratbekuulu-gc-bootcamp1"
+state_bucket  = "cmtr-f1u79s6m-tf-state-bucket-1792664161"
+state_key     = "infra.tfstate"
+instance_type = "e2-micro"
+owner         = "akylbek_muratbekuulu"
